@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
 <h3 align="center">A passionate software engineer from Greece</h3>
 
-- 🔭 I’m currently working on [schedulely.io](not live yet :))
+- 🔭 I’m currently working on schedulely.io (not live yet).
 
 - 🌱 I’m currently learning **Vue.js**
 
