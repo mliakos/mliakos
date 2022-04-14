@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
-<h3 align="center">A passionate software engineer from Greece</h3>
+<h3 align="center">I love creating value using software!</h3>
 
-- 🔭 I’m currently working on schedulely.io (not live yet).
+- 🔭 I’m currently working on salonify.io.
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently working with **Typescript**
 
 - 👨‍💻 All of my projects are available at [manos-liakos.dev](manos-liakos.dev)
 
