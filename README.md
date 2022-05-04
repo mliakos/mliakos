@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
 <h3 align="center">I love creating value using software!</h3>
 
-- 🔭 I’m currently working on salonify.io.
+- 🔭 I’m currently working on [salonify.gr](salonify.gr)
 
 - 🌱 I’m currently working with **Typescript**
 
