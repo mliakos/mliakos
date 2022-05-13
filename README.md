@@ -11,7 +11,7 @@
 
 - 📫 Hit me on **mail@manos-liakos.dev**
 
-- ⚡ Fun fact **I studied History & Philosophy of Science!**
+- ⚡ Fun fact: **I studied History & Philosophy of Science!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
