@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [salonify.gr](salonify.gr)
 
-- 🌱 I’m currently working with **Typescript**
+- 🌱 I’m currently messing with **Typescript** && **GraphQL**
 
 - 👨‍💻 All of my projects are available at [manos-liakos.dev](manos-liakos.dev)
 
