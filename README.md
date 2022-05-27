@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manos</h1>
 <h3 align="center">I love creating value using code!</h3>
 
-- 🔭 I’m currently working on [salonify.gr](https://salonify.gr)
 
 - 🌱 I’m currently learning **Typescript & GraphQL**
 
