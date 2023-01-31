@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently working on a booking SaaS, that will revolutionize the way salons book appointments 🚀
 
-- 👨‍💻 All of my projects are available at [manos-liakos.dev](manos-liakos.dev)
+- 👨‍💻 All of my projects are available at [manos-liakos.dev](https://manos-liakos.dev)
 
-- 📝 I regularly write articles on [blog.manos-liakos.dev](blog.manos-liakos.dev)
+- 📝 I regularly write articles on [blog.manos-liakos.dev](https://blog.manos-liakos.dev)
 
 - 📫 Hit me on **mail@manos-liakos.dev**
 
