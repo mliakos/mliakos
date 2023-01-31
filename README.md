@@ -2,7 +2,7 @@
 <h3 align="center">I love creating value using code!</h3>
 
 
-- 🌱 I’m currently learning **Typescript & GraphQL**
+- 🌱 I’m currently working on a booking SaaS, that will revolutionize the way salons book appointments 🚀
 
 - 👨‍💻 All of my projects are available at [manos-liakos.dev](manos-liakos.dev)
 
