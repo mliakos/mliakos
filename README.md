@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [mliakos.dev](https://mliakos.dev)
 
-- 📫 Hit me on **mail@manos-liakos.dev**
+- 📫 Hit me on **hi@mliakos.dev**
 
 - ⚡ Fun fact: **I studied History & Philosophy of Science!**
 
