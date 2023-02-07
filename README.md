@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [manos-liakos.dev](https://manos-liakos.dev)
 
-- 📝 I regularly write articles on [blog.manos-liakos.dev](https://blog.manos-liakos.dev)
+- 📝 I regularly write articles on [mliakos.dev](https://mliakos.dev)
 
 - 📫 Hit me on **mail@manos-liakos.dev**
 
